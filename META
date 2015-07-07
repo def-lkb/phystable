@@ -1,0 +1,5 @@
+name="phys_stub"
+version="0.01"
+description="Expose some GC stats"
+archive(byte)="phys_stub.cma"
+archive(native)="phys_stub.cmxa"
